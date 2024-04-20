@@ -1,6 +1,6 @@
- fn main() {
+fn main() {
     println!("Hello, example!");
- }
+}
 /*
 export FILE_NAME=XX_example.rs
 export FILE_DIR_NAME=examples
