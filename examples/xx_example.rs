@@ -2,7 +2,7 @@ fn main() {
     println!("Hello, example!");
 }
 /*
-export FILE_NAME=XX_example.rs
+export FILE_NAME=xx_example.rs
 export FILE_DIR_NAME=examples
 git add $FILE_DIR_NAME/$FILE_NAME
 git commit --all --message="-> Add BEFORE housekeeping => $FILE_DIR_NAME/$FILE_NAME"
